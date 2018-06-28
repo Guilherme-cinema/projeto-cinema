@@ -114,8 +114,6 @@ and open the template in the editor.
 
                     <div class="slideshow-container">
                         <div class="mySlides fade row">
-
-
                             <a href="vizualizarFilme.jsp.html"><img src="imagens/filmes/DeadPool.jpg" alt="" width="250" height="125"/></a>
                             <img src="imagens/josh brolin.jpg" alt="" width="250" height="125"/>
                             <img src="imagens/josh brolin.jpg" alt="" width="250" height="125"/> 
