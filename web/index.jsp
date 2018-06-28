@@ -10,10 +10,10 @@ and open the template in the editor.
         <title>nham</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
+
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css"/>
-        
+
         <!-- Estilo dos bloco de filmes -->
 
         <link href="css/estilo/pag_principal.css" rel="stylesheet" type="text/css"/>
@@ -36,7 +36,7 @@ and open the template in the editor.
         <link href="css/estilo/result_filmes.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
- <div class="container-fluid">
+        <div class="container-fluid">
 
 
             <!-- Menu: não sei colocar o mec. de busca-->
@@ -50,8 +50,7 @@ and open the template in the editor.
                             <form action="busca.html" method="get">
                                 <input  type="text" id="myInput" onkeyup="myFunction()" placeholder="Escreva aqui..">
                                 <button class="btn-busca">
-
-                                    <img src="imagens/lupaa.png" alt=""/> 
+                                    <img src="imagens/lupaa.png" alt=""/>
 
                                 </button>
                             </form>
@@ -117,7 +116,7 @@ and open the template in the editor.
                         <div class="mySlides fade row">
 
 
-                            <a href="vizualizarFilme.html"><img src="imagens/filmes/DeadPool.jpg" alt="" width="250" height="125"/></a>
+                            <a href="vizualizarFilme.jsp.html"><img src="imagens/filmes/DeadPool.jpg" alt="" width="250" height="125"/></a>
                             <img src="imagens/josh brolin.jpg" alt="" width="250" height="125"/>
                             <img src="imagens/josh brolin.jpg" alt="" width="250" height="125"/> 
                             <img src="imagens/josh brolin.jpg" alt="" width="250" height="125"/>
@@ -127,7 +126,7 @@ and open the template in the editor.
                         <div class="mySlides fade row">
                             <img src="imagens/josh brolin.jpg" alt="" width="250" height="125"/>
                             <img src="imagens/josh brolin.jpg" alt="" width="250" height="125"/>
-                            <a href="vizualizarFilme.html"><img src="imagens/filmes/DeadPool.jpg" alt="" width="250" height="125"/></a>
+                            <a href="vizualizarFilme.jsp.html"><img src="imagens/filmes/DeadPool.jpg" alt="" width="250" height="125"/></a>
                             <img src="imagens/josh brolin.jpg" alt="" width="250" height="125"/>
                             <img src="imagens/josh brolin.jpg" alt="" width="250" height="125"/>
                         </div>
@@ -137,7 +136,7 @@ and open the template in the editor.
                             <img src="imagens/josh brolin.jpg" alt="" width="250" height="125"/>
                             <img src="imagens/josh brolin.jpg" alt="" width="250" height="125"/>
                             <img src="imagens/josh brolin.jpg" alt="" width="250" height="125"/>
-                            <a href="vizualizarFilme.html"><img src="imagens/filmes/DeadPool.jpg" alt="" width="250" height="125"/></a>
+                            <a href="vizualizarFilme.jsp.html"><img src="imagens/filmes/DeadPool.jpg" alt="" width="250" height="125"/></a>
                         </div>
 
                     </div> 
@@ -152,7 +151,7 @@ and open the template in the editor.
 
 
 
-        
-        
+
+
     </body>
 </html>
