@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    
+}
+#a{ height: 215px; background-color: #999999; }
+#b{ height: 215px; background-color: #999999; }
+#c{ height: 50px;  background-color: #cccccc; }
+#d{ height: 315px; background-color: #999999; }
+#e{ height: 315px; background-color: #666666; }
+#f{ height: 50px;  background-color: #333333; }
+
+p{
+    text-align: center;
+    color: #ff0066;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+div > div > nav > ul > li{
+    color: #ff0000;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 8px;
+
+}
+
+div > div > nav > ul > li > a{
+    color: #040505;
+    font-size: 30px;
+}
+
+
+#a > figure{
+    text-align: center;   
+}
+
+#b > figure{
+    text-align: center;   
+}
+
+#d{ text-align: center; }
+
+
+
+
+#e > figure {  text-align: center;}
+
+
+
+#enviar{
+    margin-top: 20px;
+}
+
+
+
+
+
